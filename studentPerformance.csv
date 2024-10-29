@@ -1,0 +1,204 @@
+Student_ID,Name,Age,Gender,Math_Score,Science_Score,Attendance (%),Extracurricular,City,Scholarship
+1,Alice,16,F,88,91,85,Yes,New York,Yes
+2,Bob,17,M,72,78,90,No,Los Angeles,No
+3,Charlie,16,M,45,52,78,No,Chicago,No
+4,David,17,M,95,89,92,Yes,San Francisco,Yes
+5,Eva,16,F,67,NaN,NaN,Yes,NaN,No
+6,Frank,15,M,NaN,83,80,Yes,New York,No
+7,Grace,15,F,78,85,88,No,Los Angeles,No
+8,Hannah,17,F,60,65,70,Yes,Chicago,Yes
+9,Ian,16,M,49,55,60,No,San Francisco,No
+10,Jack,NaN,M,82,77,95,Yes,New York,Yes
+11,Liam,17,M,92,NaN,90,No,Los Angeles,No
+12,Olivia,15,F,85,80,85,Yes,NaN,Yes
+13,Pat,16,F,47,49,75,No,New York,No
+14,Quinn,17,F,88,92,NaN,Yes,Chicago,Yes
+15,Sam,15,M,65,68,80,No,New York,No
+16,Tina,16,F,91,95,82,Yes,Boston,Yes
+17,Umar,17,M,53,59,76,No,Seattle,No
+18,Victor,15,M,74,71,92,Yes,Chicago,Yes
+19,Wendy,16,F,NaN,87,89,No,Houston,No
+20,Xavier,17,M,69,65,NaN,Yes,Philadelphia,Yes
+21,Yara,15,F,76,79,86,Yes,Phoenix,No
+22,Zoe,16,F,83,88,93,No,Dallas,Yes
+23,Adam,16,M,80,70,78,No,San Francisco,No
+24,Bella,17,F,65,NaN,85,Yes,San Francisco,Yes
+25,Chris,15,M,77,82,NaN,No,Chicago,No
+26,Dana,17,F,84,81,84,Yes,Philadelphia,Yes
+27,Ethan,15,M,93,90,96,Yes,New York,No
+28,Faye,16,F,88,85,72,No,San Francisco,Yes
+29,George,16,M,56,50,65,Yes,Boston,No
+30,Holly,17,F,69,78,89,No,Seattle,No
+31,Isla,15,F,90,88,94,Yes,Denver,Yes
+32,Jayden,16,M,60,64,82,No,Dallas,No
+33,Kai,17,M,55,59,72,Yes,Atlanta,Yes
+34,Layla,15,F,75,80,85,Yes,Miami,No
+35,Maddox,16,M,66,70,NaN,No,Los Angeles,No
+36,Nora,15,F,89,93,90,Yes,Phoenix,Yes
+37,Oliver,17,M,NaN,85,92,No,San Antonio,No
+38,Penelope,16,F,68,72,78,No,Houston,Yes
+39,Quinn,15,F,73,NaN,80,Yes,Orlando,No
+40,Ryder,16,M,81,79,NaN,No,New Orleans,No
+41,Scarlett,17,F,59,60,85,Yes,Austin,No
+42,Theo,16,M,95,91,98,No,Columbus,Yes
+43,Uma,15,F,78,82,88,Yes,Charlotte,No
+44,Victor,16,M,NaN,76,70,Yes,Baltimore,Yes
+45,Willow,15,F,64,68,NaN,No,San Diego,No
+46,Xander,17,M,88,90,94,Yes,Salt Lake City,Yes
+47,Yasmine,15,F,77,73,75,Yes,Denver,No
+48,Zane,16,M,58,62,82,No,Las Vegas,No
+49,Aiden,16,M,71,74,NaN,Yes,Boston,Yes
+50,Brooke,15,F,69,78,85,No,Dallas,No
+51,Caleb,17,M,85,89,88,Yes,San Jose,Yes
+52,Daniella,16,F,62,67,74,No,New York,No
+53,Elias,15,M,NaN,70,68,Yes,Orlando,No
+54,Faith,16,F,93,91,95,Yes,Phoenix,Yes
+55,Gabriel,17,M,77,84,89,No,San Antonio,No
+56,Hazel,15,F,64,65,87,Yes,Los Angeles,Yes
+57,Ian,16,M,59,60,81,No,Austin,No
+58,Julia,17,F,NaN,68,NaN,Yes,San Francisco,Yes
+59,Kevin,16,M,67,66,72,No,Denver,No
+60,Lila,15,F,82,87,85,Yes,Las Vegas,Yes
+61,Miles,16,M,73,NaN,79,No,Chicago,No
+62,Naomi,17,F,89,94,NaN,Yes,Miami,No
+63,Owen,15,M,72,75,84,Yes,Dallas,No
+64,Piper,16,F,84,90,91,No,New Orleans,Yes
+65,Reed,17,M,NaN,76,85,Yes,Charlotte,No
+66,Sadie,15,F,68,70,NaN,Yes,Houston,Yes
+67,Tony,16,M,56,57,78,No,Orlando,No
+68,Uma,17,F,79,81,87,Yes,Salt Lake City,Yes
+69,Vanessa,15,F,63,NaN,75,No,Baltimore,No
+70,William,16,M,85,88,NaN,Yes,San Diego,No
+71,Xena,17,F,74,78,90,Yes,Denver,Yes
+72,Yasmin,16,F,76,72,83,No,New York,No
+73,Zack,15,M,NaN,69,89,Yes,Boston,No
+74,Anna,16,F,86,92,97,Yes,San Antonio,Yes
+75,Ben,17,M,64,NaN,80,No,Los Angeles,No
+76,Clara,15,F,75,77,86,Yes,Miami,Yes
+77,Daniel,16,M,82,84,88,No,San Francisco,No
+78,Eva,17,F,NaN,90,93,Yes,Austin,Yes
+79,Felix,16,M,62,66,NaN,No,Las Vegas,No
+80,Grace,15,F,80,85,91,Yes,Phoenix,Yes
+81,Hank,16,M,NaN,74,76,Yes,Denver,No
+82,Isla,15,F,78,79,84,No,Philadelphia,Yes
+83,Ava,16,F,67,69,76,Yes,Phoenix,No
+84,Mason,15,M,73,70,81,No,Philadelphia,Yes
+85,Mia,17,F,88,85,95,Yes,Houston,No
+86,Ella,15,F,NaN,91,78,No,Las Vegas,Yes
+87,Noah,16,M,79,82,83,Yes,San Diego,No
+88,Leo,17,M,55,60,66,Yes,Boston,No
+89,Grace,16,F,91,93,98,No,Los Angeles,Yes
+90,Ethan,15,M,65,72,NaN,Yes,Austin,No
+91,Scarlett,17,F,NaN,78,85,Yes,San Antonio,Yes
+92,Blake,16,M,75,77,81,No,Orlando,No
+93,Avery,15,F,90,88,93,Yes,Columbus,Yes
+94,Dylan,17,M,70,NaN,74,Yes,New York,No
+95,Ella,16,F,92,89,90,No,Dallas,Yes
+96,Wyatt,15,M,78,80,82,Yes,Denver,No
+97,Leah,17,F,68,NaN,86,No,San Francisco,Yes
+98,Carson,15,M,81,79,88,Yes,Charlotte,No
+99,Julia,16,F,75,74,80,No,Miami,Yes
+100,Oliver,17,M,NaN,83,76,Yes,New Orleans,No
+101,Addison,16,F,83,86,92,Yes,Phoenix,No
+102,Liam,15,M,63,70,78,No,Las Vegas,Yes
+103,Emma,17,F,91,NaN,95,Yes,Philadelphia,Yes
+104,Connor,16,M,77,74,89,No,San Antonio,No
+105,Stella,15,F,65,67,85,Yes,San Diego,Yes
+106,Ben,17,M,88,91,96,Yes,Austin,No
+107,Mia,16,F,60,NaN,78,No,Los Angeles,No
+108,Max,15,M,84,82,91,Yes,Houston,Yes
+109,Sara,16,F,79,76,85,Yes,Miami,Yes
+110,Blake,17,M,NaN,70,75,No,Chicago,No
+111,Hannah,15,F,92,94,NaN,Yes,Denver,Yes
+112,David,16,M,66,63,78,No,Orlando,No
+113,Sophia,17,F,85,88,94,Yes,San Francisco,Yes
+114,Owen,15,M,NaN,80,82,No,San Antonio,No
+115,Nora,16,F,74,72,NaN,Yes,Charlotte,Yes
+116,Noah,15,M,87,85,91,No,New York,Yes
+117,Aubrey,17,F,70,NaN,78,Yes,Phoenix,No
+118,Eli,16,M,72,71,84,No,Dallas,Yes
+119,Mila,15,F,NaN,88,89,Yes,Las Vegas,No
+120,Leo,17,M,63,67,75,No,Austin,Yes
+121,Clara,16,F,85,NaN,93,Yes,Boston,No
+122,John,15,M,88,92,96,No,Denver,Yes
+123,Isla,16,F,75,79,80,Yes,Miami,Yes
+124,Levi,15,M,NaN,86,87,No,Philadelphia,No
+125,Ellie,17,F,70,74,NaN,Yes,Dallas,No
+126,Kai,16,M,82,85,92,Yes,Orlando,Yes
+127,Chloe,15,F,67,NaN,76,Yes,San Antonio,No
+128,Finn,17,M,74,71,81,No,Denver,Yes
+129,Lucy,16,F,79,83,88,Yes,Houston,No
+130,Liam,15,M,NaN,78,86,Yes,San Francisco,Yes
+131,Ruby,17,F,94,96,NaN,No,Boston,No
+132,Henry,16,M,63,68,78,Yes,Charlotte,Yes
+133,Emma,15,F,NaN,87,89,Yes,New Orleans,Yes
+134,Oscar,17,M,69,70,NaN,Yes,Dallas,No
+135,Stella,16,F,84,NaN,85,No,Philadelphia,Yes
+136,Aaron,15,M,90,91,92,Yes,Las Vegas,No
+137,Zoe,17,F,67,68,NaN,Yes,San Diego,Yes
+138,Jack,16,M,NaN,72,80,No,Orlando,Yes
+139,Lily,15,F,78,77,88,Yes,Austin,No
+140,Alex,17,M,85,84,86,No,Houston,Yes
+141,Ivy,16,F,NaN,83,87,Yes,Dallas,No
+142,Ryan,15,M,88,92,90,Yes,Miami,Yes
+143,Emma,16,F,66,72,81,No,Phoenix,No
+144,Leo,17,M,75,NaN,84,Yes,Denver,Yes
+145,Rose,16,F,79,82,90,No,Las Vegas,No
+146,Nathan,15,M,70,NaN,78,Yes,San Antonio,Yes
+147,Isla,17,F,91,89,92,Yes,Charlotte,No
+148,James,16,M,NaN,85,87,No,Orlando,Yes
+149,Sadie,15,F,84,83,91,Yes,New York,Yes
+150,Mason,17,M,68,72,79,No,San Diego,No
+151,Bella,16,F,82,85,89,Yes,Atlanta,No
+152,Luke,15,M,70,68,79,No,Boston,Yes
+153,Maya,17,F,77,83,85,Yes,Chicago,No
+154,Adam,16,M,90,92,91,Yes,San Diego,Yes
+155,Emily,15,F,NaN,78,72,Yes,San Antonio,No
+156,Liam,16,M,65,70,88,No,Dallas,Yes
+157,Sofia,17,F,88,92,96,Yes,Phoenix,No
+158,Julian,16,M,75,NaN,80,No,Las Vegas,Yes
+159,Ava,15,F,94,97,99,Yes,Philadelphia,No
+160,Jack,16,M,NaN,84,86,Yes,New York,Yes
+161,Hazel,17,F,64,65,74,No,Columbus,No
+162,Owen,15,M,89,91,NaN,Yes,Denver,Yes
+163,Grace,16,F,73,NaN,85,No,Miami,No
+164,Ethan,17,M,82,83,92,Yes,San Francisco,Yes
+165,Violet,15,F,86,87,91,Yes,Houston,No
+166,Daniel,16,M,NaN,76,84,No,Austin,Yes
+167,Lily,17,F,78,72,80,Yes,Las Vegas,No
+168,Leo,15,M,69,71,82,Yes,New Orleans,Yes
+169,Lucy,16,F,NaN,85,88,No,Phoenix,No
+170,Caleb,17,M,91,90,93,Yes,Los Angeles,Yes
+171,Sofia,15,F,63,NaN,71,Yes,Orlando,No
+172,Nathan,16,M,84,83,92,No,Philadelphia,Yes
+173,Ella,17,F,87,89,94,Yes,Miami,No
+174,Carter,15,M,80,81,85,No,Austin,Yes
+175,Zoe,16,F,76,77,NaN,Yes,San Antonio,No
+176,Ryan,17,M,64,66,79,Yes,Dallas,Yes
+177,Audrey,15,F,NaN,83,87,Yes,Columbus,No
+178,Luke,16,M,91,93,95,No,Boston,Yes
+179,Emma,17,F,69,71,NaN,Yes,Las Vegas,No
+180,Benjamin,15,M,85,84,89,Yes,Los Angeles,Yes
+181,Mia,16,F,88,91,96,Yes,Orlando,No
+182,Noah,17,M,NaN,73,80,No,San Diego,Yes
+183,Ruby,15,F,93,95,99,Yes,Miami,No
+184,Jack,16,M,82,83,87,Yes,Philadelphia,Yes
+185,Mila,17,F,66,68,76,No,San Antonio,No
+186,Connor,15,M,71,72,81,Yes,Denver,Yes
+187,Clara,16,F,NaN,85,88,No,Houston,No
+188,Max,17,M,87,89,NaN,Yes,Austin,Yes
+189,Violet,15,F,70,NaN,74,Yes,Phoenix,No
+190,Samuel,16,M,75,77,81,Yes,New Orleans,Yes
+191,Ella,17,F,62,65,70,Yes,Boston,No
+192,Evan,15,M,90,91,NaN,Yes,Las Vegas,Yes
+193,Emily,16,F,88,86,94,No,Philadelphia,No
+194,Jack,17,M,77,79,85,Yes,New York,Yes
+195,Ivy,15,F,74,NaN,82,No,Denver,No
+196,Oscar,16,M,68,69,76,Yes,San Diego,Yes
+197,Chloe,17,F,84,85,90,Yes,Houston,No
+198,Kai,15,M,NaN,73,81,Yes,San Antonio,Yes
+199,Hazel,16,F,77,78,83,Yes,Philadelphia,No
+200,Ryan,17,M,70,72,NaN,Yes,Austin,Yes
+201,Aiden,15,M,92,94,97,Yes,Los Angeles,No
+202,Isla,16,F,NaN,88,90,No,Orlando,Yes
+203,Henry,17,M,80,82,85,Yes,Las Vegas,No
